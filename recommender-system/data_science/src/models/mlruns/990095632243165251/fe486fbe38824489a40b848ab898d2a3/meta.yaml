@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/990095632243165251/fe486fbe38824489a40b848ab898d2a3/artifacts
+end_time: 1669314957607
+entry_point_name: ''
+experiment_id: '990095632243165251'
+lifecycle_stage: active
+run_id: fe486fbe38824489a40b848ab898d2a3
+run_name: serious-koi-709
+run_uuid: fe486fbe38824489a40b848ab898d2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669314949024
+status: 3
+tags: []
+user_id: Dario

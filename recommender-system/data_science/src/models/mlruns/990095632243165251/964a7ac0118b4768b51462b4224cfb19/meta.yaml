@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/990095632243165251/964a7ac0118b4768b51462b4224cfb19/artifacts
+end_time: 1669315956856
+entry_point_name: ''
+experiment_id: '990095632243165251'
+lifecycle_stage: active
+run_id: 964a7ac0118b4768b51462b4224cfb19
+run_name: unequaled-rat-822
+run_uuid: 964a7ac0118b4768b51462b4224cfb19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669315000921
+status: 3
+tags: []
+user_id: Dario

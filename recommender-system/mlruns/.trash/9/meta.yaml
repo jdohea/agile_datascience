@@ -1,0 +1,4 @@
+artifact_location: ./mlruns/9
+experiment_id: '9'
+lifecycle_stage: active
+name: Movielens_experiment_1671372234.6264079

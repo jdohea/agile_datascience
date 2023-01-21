@@ -1,0 +1,5 @@
+{
+    "mongo":{"name":"<name>",
+             "password":"<password>",
+             "url":"<cluster_url>"}
+}

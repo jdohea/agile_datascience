@@ -1,0 +1,4 @@
+name: conda-fastapi
+dependencies:
+  - python=3.6
+

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/990095632243165251/881a925647e049b6907c2f3bf9a36eec/artifacts
+end_time: 1669314986003
+entry_point_name: ''
+experiment_id: '990095632243165251'
+lifecycle_stage: active
+run_id: 881a925647e049b6907c2f3bf9a36eec
+run_name: fearless-wren-74
+run_uuid: 881a925647e049b6907c2f3bf9a36eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669314976850
+status: 3
+tags: []
+user_id: Dario
